@@ -1,0 +1,79 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_32d51a46"
+  },
+  {
+    "name": "all-events",
+    "path": "/all-events",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-events\\\\index.vue",
+    "chunkName": "pages/all-events/index",
+    "_name": "_66af363d"
+  },
+  {
+    "name": "all-itineraries",
+    "path": "/all-itineraries",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-itineraries\\\\index.vue",
+    "chunkName": "pages/all-itineraries/index",
+    "_name": "_74439dd5"
+  },
+  {
+    "name": "all-pois",
+    "path": "/all-pois",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-pois\\\\index.vue",
+    "chunkName": "pages/all-pois/index",
+    "_name": "_400b80ed"
+  },
+  {
+    "name": "all-services",
+    "path": "/all-services",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-services\\\\index.vue",
+    "chunkName": "pages/all-services/index",
+    "_name": "_19b43250"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_35dabc4b"
+  },
+  {
+    "name": "all-events-event",
+    "path": "/all-events/event",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-events\\\\event\\\\index.vue",
+    "chunkName": "pages/all-events/event/index",
+    "_name": "_372858dd"
+  },
+  {
+    "name": "all-itineraries-itinerary",
+    "path": "/all-itineraries/itinerary",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-itineraries\\\\itinerary\\\\index.vue",
+    "chunkName": "pages/all-itineraries/itinerary/index",
+    "_name": "_a0371698"
+  },
+  {
+    "name": "all-pois-poi",
+    "path": "/all-pois/poi",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-pois\\\\poi\\\\index.vue",
+    "chunkName": "pages/all-pois/poi/index",
+    "_name": "_64a3c486"
+  },
+  {
+    "name": "all-services-service",
+    "path": "/all-services/service",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-services\\\\service\\\\index.vue",
+    "chunkName": "pages/all-services/service/index",
+    "_name": "_5692c467"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_064d4da2"
+  }
+]
