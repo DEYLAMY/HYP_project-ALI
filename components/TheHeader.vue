@@ -173,7 +173,10 @@ export default {
           name: "Artists",
           path: "/all-services",
         },
-        
+        {
+          name: "Itineraries",
+          path: "/all-itineraries",
+        },
         {
           name: "About Us",
           path: "/about",
