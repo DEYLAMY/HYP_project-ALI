@@ -17,14 +17,7 @@
           class="col-md-8 col-9 col-sm-9 my-sm-auto text-center text-sm-start"
         >
           <p class="text-light">
-            We are proud to say that Montreal has an ever changing selection of
-            art and music venues. So many that we could never list them all
-            here! Thankfully, some places are timeless, evergreens that we can
-            return to time ad time again and never be disappointed. Here are a
-            few of our favourites - some old and some new. Find galleries,
-            museums, music halls, and architectural wonders below. And then,
-            find your own favourite places as you explore! We can't wait to hear
-            about it.
+              On this page, we list all of the available festivals of live performance which we will hold in one week during the summer. also, we separate them into different categories such as dance, theater, music, and opera to make searching more comfortable for our users.
           </p>
         </div>
       </div>
