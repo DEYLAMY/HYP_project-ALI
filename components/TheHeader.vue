@@ -162,11 +162,11 @@ export default {
           path: "/",
         },
         {
-          name: "Places",
+          name: "Events",
           path: "/all-pois",
         },
         {
-          name: "Events",
+          name: "Places",
           path: "/all-events",
         },
         {
