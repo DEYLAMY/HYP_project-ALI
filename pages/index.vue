@@ -1,6 +1,6 @@
 <template>
   <div class="container-lg container-fluid-sm my-2 pt-3 pb-4">
-    <h1 class="py-3 px-5 text">Welcome in Montreal!</h1>
+    <h1 class="py-3 px-5 text">Welcome to summer festivals</h1>
     <div class="row mb-3 d-flex justify-content-around">
       <div class="col-sm-5">
         <img
