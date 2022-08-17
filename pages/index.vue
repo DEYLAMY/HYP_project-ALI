@@ -21,14 +21,14 @@
       <div class="col-sm col-poi shadow btn-home">
         <NuxtLink to="/all-pois"
           ><button type="button" class="btn btn-custom">
-            Discover Places
+            Discover Events
           </button></NuxtLink
         >
       </div>
       <div class="col-sm col-event shadow btn-home">
         <NuxtLink to="/all-events"
           ><button type="button" class="btn btn-custom">
-            Discover Events
+            Discover Places
           </button></NuxtLink
         >
       </div>
@@ -97,27 +97,21 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(https://www.bonjourquebec.com/fiche/images/crop-1200x1200/3c34816c-9a22-4520-a983-4d9ff11cc2ee/la-tour-de-montreal-la-tour-de-montreal.jpg);
+  background-image: url(https://www.visitczechrepublic.com/cms/getmedia/29DE635D-19E5-4533-ABBA-37153A919BF6/n-music-festivals-in-summer.jpeg?width=1920&height=1135&ext=.jpeg);
 }
 
 .col-event {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(https://images.squarespace-cdn.com/content/v1/570289bb62cd94d3a2b5d821/1565195498069-STJONVPZEEAZUHPQ4D0T/RAINBOWMTL.jpg);
+  background-image: url(https://491617.smushcdn.com/772872/wp-content/uploads/2019/04/Duomo-Piazza-Milan-e1554811333667-1915x660.jpg?lossy=1&strip=1&webp=1);
 }
 
 .col-service {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1d/Station_BIXI_-_Parc_Jeanne_Mance.jpg);
-}
-.col-itinerary {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-image: url(https://web-assets.bcg.com/dims4/default/9acccb9/2147483647/strip/true/crop/1049x590+1+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F11%2F02%2F1f98b57f33d4d2a37fb4797af8f8%2Fmontreal-49246132-1050x590-tcm9-33800.jpg);
+  background-image: url(https://www.actualidadiphone.com/wp-content/uploads/2016/08/Apple-Music-Festival.png);
 }
 
 .img-fluid {
