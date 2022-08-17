@@ -21,7 +21,7 @@
       <div class="col-sm col-poi shadow btn-home">
         <NuxtLink to="/all-pois"
           ><button type="button" class="btn btn-custom">
-            Discover POI
+            Discover Places
           </button></NuxtLink
         >
       </div>
@@ -35,17 +35,11 @@
       <div class="col-sm col-service shadow btn-home">
         <NuxtLink to="/all-services"
           ><button type="button" class="btn btn-custom">
-            Discover Services
+            Discover Artists
           </button></NuxtLink
         >
       </div>
-      <div class="col-sm col-itinerary shadow btn-home">
-        <NuxtLink to="/all-itineraries"
-          ><button type="button" class="btn btn-custom">
-            Discover Itineraries
-          </button></NuxtLink
-        >
-      </div>
+ 
     </div>
     </div>
 
