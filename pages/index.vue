@@ -5,7 +5,7 @@
       <div class="col-sm-5">
         <img
           class="img-fluid shadow"
-          src="https://m1.quebecormedia.com/emp/emp/51b1d750-db9d-11eb-83fe-95cf63da6fc8_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1200&h=799&width=968"
+          src="https://image.jimcdn.com/app/cms/image/transf/dimension=1280x10000:format=jpg/path/sa6549607c78f5c11/image/i82f8384a1348ab84/version/1554202007/tomorrowland-best-summer-music-festivals-europe.jpg"
         />
       </div>
       <div class="col-sm-5 text-sm-start">
@@ -58,7 +58,7 @@
       <div class="col-sm-5">
         <img
           class="img-fluid shadow"
-          src="http://avenues.ca/wp-content/uploads/2018/09/37798868_1887346064645837_7206099852965445632_o.jpg"
+          src="https://image.jimcdn.com/app/cms/image/transf/none/path/sa6549607c78f5c11/image/i993a12f8bf71159f/version/1656083261/earth-garden-festival-malta-best-summer-music-festivals.jpg"
         />
       </div>
     </div>
