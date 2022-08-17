@@ -162,7 +162,7 @@ export default {
           path: "/",
         },
         {
-          name: "POI",
+          name: "Places",
           path: "/all-pois",
         },
         {
@@ -170,13 +170,10 @@ export default {
           path: "/all-events",
         },
         {
-          name: "Services",
+          name: "Artists",
           path: "/all-services",
         },
-        {
-          name: "Itineraries",
-          path: "/all-itineraries",
-        },
+        
         {
           name: "About Us",
           path: "/about",
