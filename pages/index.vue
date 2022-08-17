@@ -10,17 +10,7 @@
       </div>
       <div class="col-sm-5 text-sm-start">
         <p class="text">
-          Perhaps you’re curious to visit a city on an island (with a mountain,
-          too!). Or perhaps you’ve heard that Montreal was declared a UNESCO
-          city of Design. Maybe you’ve heard about the signature dish poutine,
-          or you’d like to test yourself with an outdoor music festival in
-          winter. And when Montreal does winter, you can expect a winter
-          wonderland and real winter temperatures! Monocle magazine calls
-          Montreal “Canada’s Cultural Capital”. We call it home. Come visit our
-          vibrant hometown and tour our best galleries, an everchanging line-up
-          of creative exhibits, and take in the sights as you discover one of
-          the most liveable cities in the world (it’s official! Thanks,
-          Economist Magazine).
+     with warm weather around the corner and restrictions slowly being lifted, summer 2022 is looking fun and, after almost 2 years, back to normal. If you’re traveling through Italy and are looking to spruce up your holiday with some good music, look no further: we got you covered with a great selection of Italy’s best summer festivals!
         </p>
       </div>
     </div>
@@ -62,17 +52,7 @@
     <div class="row mb-5 d-flex justify-content-around">
       <div class="col-sm-5 d-flex flex-column">
         <p class="text">
-          Perhaps you’re curious to visit a city on an island (with a mountain,
-          too!). Or perhaps you’ve heard that Montreal was declared a UNESCO
-          city of Design. Maybe you’ve heard about the signature dish poutine,
-          or you’d like to test yourself with an outdoor music festival in
-          winter. And when Montreal does winter, you can expect a winter
-          wonderland and real winter temperatures! Monocle magazine calls
-          Montreal “Canada’s Cultural Capital”. We call it home. Come visit our
-          vibrant hometown and tour our best galleries, an everchanging line-up
-          of creative exhibits, and take in the sights as you discover one of
-          the most liveable cities in the world (it’s official! Thanks,
-          Economist Magazine).
+         with warm weather around the corner and restrictions slowly being lifted, summer 2022 is looking fun and, after almost 2 years, back to normal. If you’re traveling through Italy and are looking to spruce up your holiday with some good music, look no further: we got you covered with a great selection of Italy’s best summer festivals!
         </p>
       </div>
       <div class="col-sm-5">
