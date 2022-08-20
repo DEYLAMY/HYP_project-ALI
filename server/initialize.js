@@ -53,21 +53,19 @@ export default async (models) => {
     await models.Cat.bulkCreate(catList)
 
     const POIs = [
-        {
-            imgPathMain: "https://images.unsplash.com/photo-1634080782716-ad30ba56266e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-            descriptionMain: "Finished in 1829, this church is an irreplaceable fixture of the Montreal skyline. And while many come to worship, the church is also well known for hosting concerts enjoyed by all members of the Montreal community. Tours are welcome outside of mass hours. Check in on the official website, as markets and special events are common throughout the year. Just don't forget - please keep your voices down as you visit!",
-            heading: "Notre Dame Basilica",
-            address: "110, Notre-Dame Street West Montréal (Québec) H2Y 1T1 Canada",
-            hours: "9 AM - 4 PM",
+       {
+            imgPathMain: "https://img.itinari.com/pages/images/original/45efadaf-72bc-47a6-979a-b12bf1849cf7-istock-458117473.jpg?ch=DPR&dpr=1.25&w=1600&s=9c2481e70bf928dc4ee8c79cdb62f471",
+            descriptionMain: "Italy is reputed as a country that enjoys and celebrates the wonderful things in life - food, drinks, friends and the obvious dance! One of the most recognized dance types is the traditional dance of southern Italy, called tarantella, which is characterized by fast beats and the accompaniment of a tambourine. The word itself is the name of a poisonous which is common in southern Italy. According to ancient folk belief, spider bites once caused a crisis of violent psychopathy.",
+            heading: "Puglia Dance and Tarantula Spider Night",
+            address: "Florence",
+            hours: "2 Sep - 4 Sep",
             cost: "$14",
-            imgPathText: "https://images.unsplash.com/photo-1561306774-ce2d895584f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png",
-            category: "churches",
-            url: "https://www.basiliquenotredame.ca/en",
+            imgPathText: "https://img.itinari.com/pages/images/original/45efadaf-72bc-47a6-979a-b12bf1849cf7-istock-458117473.jpg?ch=DPR&dpr=1.25&w=1600&s=9c2481e70bf928dc4ee8c79cdb62f471 ",
+            category: "dance",
+            url: "https://www.itinari.com/zh/apulian-dances-and-the-night-of-the-tarantula-xjaf",
             hosts: "Luminotherapie",
             itinerary: "1",
-            Neighbourhood: "East",
-            poiName: "Montreal Symphony House",
+            poiName: "",
             eventId: 2,
             
         },
