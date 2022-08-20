@@ -33,21 +33,6 @@
             <p class="text-dark text-content">{{ descriptionSecond }}</p>
         </div>
       </div>
-      
-      <div v-if="carouselData.length > 0" class="row justify-content-center py-3">
-        <h2 class="lead text-poi text-dark text-center">This point of interest is the host of following events:</h2>
-              <card
-                v-for="data in carouselData"
-                :key="data.id"
-                :cardTitle="data.heading"
-                :imgPath="data.imgPathMain"
-                :cardDescription="data.description"
-                :season="data.season"
-                :month="data.month"
-                :id="data.id"
-              />
-           
-      </div>
 
         <div class="row my-2 px-5  d-flex justify-content-center">
             <!-- <img class="img-banner" :src="imgPathMap"/>-->
