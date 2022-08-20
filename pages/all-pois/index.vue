@@ -10,15 +10,15 @@
         <div class="col-md-4 col-sm-3 col-12">
           <img
             class="img-header img-fluid"
-            src="https://media.timeout.com/images/105890847/750/422/image.jpg"
+            src="https://www.mastersofhardcore.com/wp-content/uploads/2022/06/190706_220008_free_festival_delio_hr-scaled.jpeg"
           />
         </div>
         <div
           class="col-md-8 col-9 col-sm-9 my-sm-auto text-center text-sm-start"
         >
           <p class="text-light">
-              On this page, we list all of the available festivals of live performance which we will hold in one week during the summer. also, we separate them into different categories such as dance, theater, music, and opera to make searching more comfortable for our users.
-          </p>
+        in this page you can see a list of all festivals all around the Europe also you have an ability to filter your festival search base on different categories
+         </p>
         </div>
       </div>
 
@@ -28,23 +28,10 @@
           <!-- <label for="categoryList1" class="form-label"></label> -->
           <select class="form-select" name="categoryList" id="categoryList1">
             <option selected disabled hidden>Category</option>
-            <option value="churches">Churches</option>
-            <option value="museums">Museums</option>
+            <option value="churches">Dance</option>
             <option value="music">Music</option>
-            <option value="markets">Markets</option>
-            <option value="galleries">Galleries</option>
-            <option value="outdoor">Outdoor</option>
-            <option value="immersive">Immersive</option>
-            <option value="All">All</option>
-          </select>
-        </div>
-        <div class="col-md-5 col-sm-6 my-1">
-          <!-- <label for="categoryList2" class="form-label"></label> -->
-          <select class="form-select" name="categoryList" id="categoryList2">
-            <option selected disabled hidden>Neighbourhood</option>
-            <option value="East">East</option>
-            <option value="South">South</option>
-            <option value="West">West</option>
+            <option value="markets">Theater</option>
+            <option value="galleries">Opera</option>
             <option value="All">All</option>
           </select>
         </div>
