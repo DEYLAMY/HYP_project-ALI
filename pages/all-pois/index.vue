@@ -28,10 +28,10 @@
           <!-- <label for="categoryList1" class="form-label"></label> -->
           <select class="form-select" name="categoryList" id="categoryList1">
             <option selected disabled hidden>Category</option>
-            <option value="churches">Dance</option>
-            <option value="music">Music</option>
-            <option value="markets">Theater</option>
-            <option value="galleries">Opera</option>
+            <option value="Dance">Dance</option>
+            <option value="Music">Music</option>
+            <option value="Theater">Theater</option>
+            <option value="Opera">Opera</option>
             <option value="All">All</option>
           </select>
         </div>
