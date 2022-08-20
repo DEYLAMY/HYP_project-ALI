@@ -39,8 +39,36 @@
                 </div>
             </div>
         </div>
-
-    </div>
+        <div class="row my-2 px-5 d-flex justify-content-center">
+        <h2 class="lead text-event text-dark">You might also like:</h2>
+        <div class="col-md-4 col-sm-3 col-12">
+          <card-event class="card-event"
+                :cardTitle="second.heading"
+                :imgPath="second.imgPathMain"
+                :cardDescription="second.description"
+                :month="second.month"
+                :id="second.id"
+            />
+        </div>
+        <div class="col-md-4 col-sm-3 col-12">
+          <card-event class="card-event"
+                :cardTitle="third.heading"
+                :imgPath="third.imgPathMain"
+                :cardDescription="third.description"
+                :month="third.month"
+                :id="third.id"
+            />
+        </div>
+        <div class="col-md-4 col-sm-3 col-12">
+          <cardEvent class="card-event"
+                :cardTitle="fourth.heading"
+                :imgPath="fourth.imgPathMain"
+                :cardDescription="fourth.description"
+                :month="fourth.month"
+                :id="fourth.id"
+            />
+        </div>
+  </div>
   </div>
    
 </template>
