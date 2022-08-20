@@ -42,17 +42,7 @@
                 </div>
             </div>
         </div>
-      <div class="row my-2 px-5 d-flex justify-content-center">
-        <h2 class="lead text-poi text-dark">You might also like:</h2>
-        <div class="col-md-4 col-sm-3 col-12">
-          <poiCard class="card-poi"
-                :cardTitle="second.heading"
-                :imgPath="second.imgPathMain"
-                :cardDescription="second.descriptionMain"
-                :month="second.hours"
-                :id="second.id"
-            />
-        </div>
+
         <div class="col-md-4 col-sm-3 col-12">
           <poiCard class="card-poi"
                 :cardTitle="third.heading"
