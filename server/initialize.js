@@ -234,24 +234,6 @@ export default async (models) => {
             
         },
         {
-            imgPathMain: "",
-            descriptionMain: "",
-            heading: "",
-            address: "",
-            hours: "",
-            cost: "",
-            imgPathText: "",
-            imgPathMap: "",
-            category: "churches",
-            url: "",
-            hosts: " ",
-            itinerary: "0",
-            Neighbourhood: "South",
-            poiName: "",
-            eventId: 2,
-            
-        },
-        {
             imgPathMain: "https://images.unsplash.com/photo-1650327034446-897929c7fd66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
             descriptionMain: "You've never seen anything like this before. An art exhibit, but you're part of it! Walk through the immersive rooms and get behind the motivations and emotions of this world famous artist. And, if you have time, snap a photo! This is a memory you wont want to forget. Check the official website to book your time slot. ",
             heading: "Oasis",
