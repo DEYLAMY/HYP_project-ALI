@@ -27,58 +27,7 @@
         </div>
       </div>
     </div>
-    <div class="container-fluid container-lg">
-      <div class="row text-center text-sm-start">
-        <div class="col-1">
-          <p class="lead fw-bold">Filter</p>
-        </div>
-        <div class="col-11 px-md-0 px-sm-5">
-          <!-- if the user clicks on the same button, all events should show up again -->
-          <button
-            @click="changeToSun2"
-            v-if="sumOrSn === 'both'"
-            class="btn btn-primary rounded"
-          >
-            Love sun
-          </button>
-          <button
-            @click="changeToSnow2"
-            v-if="sumOrSn === 'both'"
-            class="btn btn-primary rounded"
-          >
-            Love snow
-          </button>
-          <button
-            @click="selfClick2"
-            v-if="sumOrSn === 'sun'"
-            class="btn btn-primary rounded bg-dark"
-          >
-            Love sun
-          </button>
-          <button
-            @click="changeToSnow2"
-            v-if="sumOrSn === 'sun'"
-            class="btn btn-primary rounded"
-          >
-            Love snow
-          </button>
-          <button
-            @click="changeToSun2"
-            v-if="sumOrSn === 'snow'"
-            class="btn btn-primary rounded"
-          >
-            Love sun
-          </button>
-          <button
-            @click="selfClick2"
-            v-if="sumOrSn === 'snow'"
-            class="btn btn-primary rounded bg-dark"
-          >
-            Love snow
-          </button>
-        </div>
-      </div>
-    </div>
+   
     <!-- lower section -->
 
     <!-- md+ screens carousel -->
