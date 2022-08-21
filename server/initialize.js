@@ -779,11 +779,11 @@ export default async (models) => {
 
     const Itineraries = [
         {
-            imgPath: "https://images.unsplash.com/photo-1531338498331-ad43305c982f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            description: "Much of the most beautiful architecture in Montreal is thanks to a rich collection of churches dating back to the original settlement of Canada, long before it became a country. Get your fill of history history, art, and nature on our tour through some of the most iconic places of worship in the city. Start with St.Joseph's Oratory, where you can walk up the famous 283 steps. This basilica is home to a religious relic, the heart of beloved local saint Brother Andre. The Basilica warmly welcomes visitors of all faiths, and the view is worth the climb. Next you can stop at the cemetery of Mont-Royal just up th road, where famous Canadians such as Mordecai Richler and Leonard Cohen are buried. Make your way down to the Old Port, where you'll find a piece of France in Notre Dame Basilica. The last step on the tour, Our Lady of the Harbour offers a wonderful view of the St.Lawrence. It is said that from this church, ships at sea were guided safely home. You'll be happy to know that from this location you can fantastic restaurants for any meal of the day, as you'll surely have worked up an appetite.",
-            heading: "For the Church Lover",
-            duration: "4 Hours",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png"
+            imgPath: "https://a.cdn-hotels.com/gdcs/production141/d859/77c392d0-bb25-11e8-a439-0242ac110006.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+            description: "Florence, capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture. One of its most iconic sights is the Duomo, a cathedral with a terracotta-tiled dome engineered by Brunelleschi and a bell tower by Giotto. The Galleria dell'Accademia displays Michelangelo’s “David” sculpture. The Uffizi Gallery exhibits Botticelli’s “The Birth of Venus and da Vinci’s “Annunciation.",
+            heading: "Florence",
+            duration: "",
+            imgPathMap: ""
         },
         {
             imgPath: "https://images.unsplash.com/photo-1570474640932-c5dfbeeb2706?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
