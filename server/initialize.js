@@ -783,21 +783,21 @@ export default async (models) => {
             description: "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly Renaissance, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio",
             heading: "Florence-Pitti Palace",
             duration: "",
-            imgPathMap: "https://www.google.it/maps/place/Pitti+Palace/@43.7673643,11.2521377,15.91z/data=!4m5!3m4!1s0x132a515441db99f1:0x5cd0cce4e6f1502a!8m2!3d43.7651533!4d11.2500081"
+            imgPathMap: ""
         },
         {
             imgPath: "https://www.ourescapeclause.com/wp-content/uploads/2021/08/shutterstock_1372373447-scaled.jpg",
             description: "Piazza San Marco, often known in English as St Mark's Square, is the principal public square of Venice, Italy, where it is generally known just as la Piazza. All other urban spaces in the city are called campi. The Piazzetta is an extension of the Piazza towards San Marco basin in its south east corner. ",
             heading: "venice-St. Mark's Square",
             duration: "",
-            imgPathMap: "https://www.google.it/maps/place/St.+Mark's+Square/@45.4341668,12.3384717,15z/data=!4m5!3m4!1s0x0:0x2d0bb9644fff61b!8m2!3d45.4341668!4d12.3384717?hl=en",
+            imgPathMap: "",
         },
         {
             imgPath: "https://a.cdn-hotels.com/gdcs/production86/d1205/3596db38-0609-4f0d-b7be-1a98527384c6.jpg",
             description: "The Buen Retiro Park, Retiro Park or simply El Retiro is one of the largest parks of the city of Madrid, Spain. The park belonged to the Spanish Monarchy until the late 19th century, when it became a public park. In 2021, Buen Retiro Park became part of a combined UNESCO World Heritage Site with Paseo del Prado.",
             heading: "madrid-El Retiro Park",
             duration: "",
-            imgPathMap: "https://www.google.it/maps/place/El+Retiro+Park/@40.4152606,-3.6844995,15z/data=!4m5!3m4!1s0x0:0x9e6c2716b524a3ae!8m2!3d40.4152606!4d-3.6844995?hl=en",
+            imgPathMap: "",
         },
 
         {
@@ -805,7 +805,7 @@ export default async (models) => {
             description: "Hyde Park is a Grade I-listed major park in Central London. It is the largest of four Royal Parks that form a chain from the entrance of Kensington Palace through Kensington Gardens and Hyde Park, via Hyde Park Corner and Green Park past the main entrance to Buckingham Palace. The park is divided by the Serpentine and the Long Water lakes. The park was established by Henry VIII in 1536 when he took the land from Westminster Abbey and used it as a hunting ground. It opened to the public in 1637 and quickly became popular, particularly for May Day parades. Major improvements occurred in the early 18th century under the direction of Queen Caroline. Several duels took place in Hyde Park during this time, often involving members of the nobility. The Great Exhibition of 1851 was held in the park, for which The Crystal Palace, designed by Joseph Paxton, was erected.",
             heading: "London-Hyde Park",
             duration: "",
-            imgPathMap: "https://www.google.it/maps/place/Central+Park/@51.4711719,-0.0104447,11z/data=!4m9!1m2!2m1!1slondon+central+park!3m5!1s0x47d8a633dd77cccb:0x9b8c648aeb4ac4a5!8m2!3d51.5293175!4d0.0527634!15sChNsb25kb24gY2VudHJhbCBwYXJrWhUiE2xvbmRvbiBjZW50cmFsIHBhcmuSAQRwYXJrmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJ2ZGpWUVNrTjNFQUU?hl=en",
+            imgPathMap: "",
         },
     ]
 
