@@ -174,7 +174,7 @@ export default {
           path: "/all-services",
         },
         {
-          name: "Itineraries",
+          name: "Places",
           path: "/all-itineraries",
         },
         {
