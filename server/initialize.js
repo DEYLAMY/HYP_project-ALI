@@ -557,42 +557,6 @@ export default async (models) => {
             eventId: 2,
             
         },
-        {
-            imgPathMain: "https://images.unsplash.com/photo-1574551375004-f46a1d1cca53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-            descriptionMain: "This music venue is an iconic part of Montreal's history. Arrive early to get a drink at the bar. While there's no dress code, it's a great excuse to dress the part! Be sure to check the official website for the current lineup of shows. The venue is situated close to a metro stop, so transport to all major neighbourhoods and hotels is a breeze. ",
-            heading: "Montreal Symphony House",
-            address: "1600 Rue Saint-Urbain, Montréal, QC H2X 0S1, Canada",
-            hours: "Hours vary according to performance",
-            cost: "See performance rates",
-            imgPathText: "https://images.unsplash.com/photo-1610504782444-2695d239ef67?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png",
-            category: "music",
-            url: "https://placedesarts.com/en",
-            hosts: "Rafael Payare Conducts Shostakovich, Ravel, and Liszt ",
-            itinerary: "0",
-            Neighbourhood: "West",
-            poiName: "Arsenal Art Contemporain",
-            eventId: 2,
-            
-        },
-        {
-            imgPathMain: "https://images.unsplash.com/photo-1495109251996-432ef0887b37?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
-            descriptionMain: "This music venue is an iconic part of Montreal's history. Arrive early to get a drink at the bar. While there's no dress code, it's a great excuse to dress the part! Be sure to check the official website for the current lineup of shows. The venue is situated close to a metro stop, so transport to all major neighbourhoods and hotels is a breeze. ",
-            heading: "Les Grand Ballets",
-            address: "175 Saint-Catherine St W, Montreal, Quebec H2X 1Y9, Canada",
-            hours: "Hours vary according to performance",
-            cost: "See performance rates",
-            imgPathText: "https://images.unsplash.com/photo-1586117652181-1e68b751cc1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png",
-            category: "music",
-            url: "https://grandsballets.com/en/ ",
-            hosts: "The Nutcracker",
-            itinerary: "0",
-            Neighbourhood: "East",
-            poiName: "La Guilde",
-            eventId: 2,
-            
-        },
       
     ]
     await models.POI.bulkCreate(POIs)
