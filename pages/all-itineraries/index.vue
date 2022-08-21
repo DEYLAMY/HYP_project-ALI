@@ -10,20 +10,12 @@
         <div class="col-md-4 col-sm-3 col-12">
           <img
             class="img-fluid shadow img-header"
-            src="https://images.unsplash.com/photo-1528161868439-f4f8d5e1e59e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+            src="https://www.efa-aef.eu/media/page-photo/10481-festival_cities_initiative_conversations_cjohannes_plenio_res.jpg"
           />
         </div>
         <div class="col-md-8 col-9 col-sm-9 my-auto text-center text-sm-start">
           <p class="text-light">
-            You're new here, we know! That's why we've put together a handful of
-            itineraries to suit every type of traveller. For the traditionalist,
-            we have a loop of the most important churches in what is often
-            called "the city of steeples". For the art lovers we have a downtown
-            tour spanning 4 different genres of art, landing you right in the
-            heart of the Old Port. If you love the outdoors, you can see
-            gardens, markets, and the biggest park in the city: the mountain!
-            And, for the instagram famous, we have a line-up of coveted
-            exhibitions which will add colour to your life and feed.
+       here you can see all of the places where hold summer festival.
           </p>
         </div>
       </div>
