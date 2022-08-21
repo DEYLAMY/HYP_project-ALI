@@ -27,10 +27,11 @@
         </div>
       </div>
     </div>
-   
+    
     <!-- lower section -->
 
     <!-- md+ screens carousel -->
+
 
     <!-- small and xs screens carousel  -->
     <div class="container-lg container-fluid text-center d-block d-md-none">
