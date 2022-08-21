@@ -335,7 +335,7 @@ export default async (models) => {
             heading: "Cine-Concerts",
             address: "1201 St Ladescriptionurent Blvd, Montreal, Quebec H2X 2S6, Canada",
             season: "summer",
-            month: "July",
+            month: "January",
             dates: "17th - 21st",
             hours: "8 PM",
             cost: "Free",
