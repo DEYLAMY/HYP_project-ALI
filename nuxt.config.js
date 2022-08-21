@@ -8,18 +8,18 @@ export default {
     }
   ],
   head: {
-    title: 'Montreal',
+    title: 'Summer Festival',
     htmlAttrs: {
       lang: 'en',
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'Montreal', name: 'website for traveling', content: 'holiday in montreal' },
+      { hid: 'Summer Festival', name: 'website for Summer Festival', content: 'Summer Festival' },
       {
         hid: "description",
         name: "description",
-        content: "Website for traveller to know how the beautiful art of Montreal.",
+        content: "Summer Festival",
       },
       { property: "og:site_name", content: "Montreal Website" },
       { hid: "og:type", property: "og:type", content: "website" },
@@ -31,14 +31,14 @@ export default {
       {
         hid: "og:title",
         property: "og:title",
-        content: "My Amazing website for montreal",
+        content: "Summer Festival",
       },
       {
         hid: "og:description",
         property: "og:description",
-        content: "Website for traveller to know how the beautiful art of Montreal.",
+        content: "Website for Summer Festival to know how the beautiful art of Montreal.",
       },
-      { hid: 'keywords', name: 'keywords', content: 'what to see in Canada, Canada trip, Canada short trip, where to go in Canada, big cities in Canada, cities in Canada, airport Canada, train Canada, romantic city in Canada, Valentines day Canada, travel blog, nomad, nomad lifestyle, wanderlust, travel bug, sightseeing, sightsee, getaway, weekend getaway, budget trips, affordable trips, globetrotting, events in montreal, service in montreal, itinerary in montreal, summer in montreal, winter in montreal, bixi, Metro, igloofest' },
+      { hid: 'keywords', name: 'keywords', content: 'what to see in Summer Festival, Summer Festival, Summer Festival short topic, where to go in Summer Festival, sightseeing, events in Summer Festival, service in Summer Festival, places in Summer Festival, Summer Festival, summer in Summer Festival, bixi, Metro, igloofest' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [
