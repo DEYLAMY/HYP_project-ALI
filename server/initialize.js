@@ -778,35 +778,28 @@ export default async (models) => {
     await models.AllService.bulkCreate(AllService)
 
     const Itineraries = [
-        {
-            imgPath: "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/51360/2000x2000-0-70-29bde528fdc139b63abfe78184fd1957.jpg",
-            description: "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly Renaissance, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio",
-            heading: "Florence-Pitti Palace",
-            duration: "",
-            imgPathMap: ""
+            {
+            imgPath: "https://images.unsplash.com/photo-1531338498331-ad43305c982f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            description: "Much of the most beautiful architecture in Montreal is thanks to a rich collection of churches dating back to the original settlement of Canada, long before it became a country. Get your fill of history history, art, and nature on our tour through some of the most iconic places of worship in the city. Start with St.Joseph's Oratory, where you can walk up the famous 283 steps. This basilica is home to a religious relic, the heart of beloved local saint Brother Andre. The Basilica warmly welcomes visitors of all faiths, and the view is worth the climb. Next you can stop at the cemetery of Mont-Royal just up th road, where famous Canadians such as Mordecai Richler and Leonard Cohen are buried. Make your way down to the Old Port, where you'll find a piece of France in Notre Dame Basilica. The last step on the tour, Our Lady of the Harbour offers a wonderful view of the St.Lawrence. It is said that from this church, ships at sea were guided safely home. You'll be happy to know that from this location you can fantastic restaurants for any meal of the day, as you'll surely have worked up an appetite.",
+            heading: "For the Church Lover",
+            duration: "4 Hours",
+            imgPathMap: "https://i.stack.imgur.com/coL96.png"
         },
         {
-            imgPath: "https://www.ourescapeclause.com/wp-content/uploads/2021/08/shutterstock_1372373447-scaled.jpg",
-            description: "Piazza San Marco, often known in English as St Mark's Square, is the principal public square of Venice, Italy, where it is generally known just as la Piazza. All other urban spaces in the city are called campi. The Piazzetta is an extension of the Piazza towards San Marco basin in its south east corner. ",
-            heading: "venice-St. Mark's Square",
-            duration: "",
-            imgPathMap: "",
+            imgPath: "https://images.unsplash.com/photo-1570474640932-c5dfbeeb2706?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            description: "For the traveller that can't get enough of art and culture, or for a rainy day, choose the museums and galleries of Montreal. Start at the small but might McCord museum, where you'll learn about Canadian artists and journalists. As you walk along Sherbrooke street to La Guilde, you'll see the iconic laneway of McGill University. After the small and local collection at La Guilde, you can enjoy a coffee before taking in the permanent collection in the Musee des Beaux-Arts. Then walk towards the port, where you'll find an incredible rotating Anthropology and History exhibits.",
+            heading: "For the Intellectual",
+            duration: "5 Hours",
+            imgPathMap: "https://i.stack.imgur.com/coL96.png",
         },
         {
-            imgPath: "https://a.cdn-hotels.com/gdcs/production86/d1205/3596db38-0609-4f0d-b7be-1a98527384c6.jpg",
-            description: "The Buen Retiro Park, Retiro Park or simply El Retiro is one of the largest parks of the city of Madrid, Spain. The park belonged to the Spanish Monarchy until the late 19th century, when it became a public park. In 2021, Buen Retiro Park became part of a combined UNESCO World Heritage Site with Paseo del Prado.",
-            heading: "madrid-El Retiro Park",
-            duration: "",
-            imgPathMap: "",
+            imgPath: "https://images.unsplash.com/photo-1570474644749-dc5edd36353d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            description: "If you're not a city person, fear not! Montreal offers plenty of escapes from the chaos, all accessibly by public transport. Start with breakfast at Jean Talon Market, where you'll find in season product and baked goods, as well as a dangerous selection of artisinal cheeses. Take the metro to the Botanical Gardens. Don't worry if the weather isn't perfect, the greenhouses offer hours of enjoyment. By this time you should be ready for lunch, and you can make your way to the Lachine Canal for a bite to eat. Once recharged, use your energy to walk up Mont-Royal. You won't want to miss the lookout point, where you can admire how much ground you covered!",
+            heading: "For the Nature Lover",
+            duration: "4 Hours",
+            imgPathMap: "https://i.stack.imgur.com/coL96.png",
         },
 
-        {
-            imgPath: "https://greatruns.com/wp-content/uploads/2016/11/hyde-park.jpg",
-            description: "Hyde Park is a Grade I-listed major park in Central London. It is the largest of four Royal Parks that form a chain from the entrance of Kensington Palace through Kensington Gardens and Hyde Park, via Hyde Park Corner and Green Park past the main entrance to Buckingham Palace. The park is divided by the Serpentine and the Long Water lakes. The park was established by Henry VIII in 1536 when he took the land from Westminster Abbey and used it as a hunting ground. It opened to the public in 1637 and quickly became popular, particularly for May Day parades. Major improvements occurred in the early 18th century under the direction of Queen Caroline. Several duels took place in Hyde Park during this time, often involving members of the nobility. The Great Exhibition of 1851 was held in the park, for which The Crystal Palace, designed by Joseph Paxton, was erected.",
-            heading: "London-Hyde Park",
-            duration: "",
-            imgPathMap: "",
-        },
     ]
 
     await models.Itineraries.bulkCreate(Itineraries)
