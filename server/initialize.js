@@ -779,33 +779,33 @@ export default async (models) => {
 
     const Itineraries = [
         {
-            imgPath: "https://a.cdn-hotels.com/gdcs/production141/d859/77c392d0-bb25-11e8-a439-0242ac110006.jpg?impolicy=fcrop&w=800&h=533&q=medium",
-            description: "Florence, capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture. One of its most iconic sights is the Duomo, a cathedral with a terracotta-tiled dome engineered by Brunelleschi and a bell tower by Giotto. The Galleria dell'Accademia displays Michelangelo’s “David” sculpture. The Uffizi Gallery exhibits Botticelli’s “The Birth of Venus and da Vinci’s “Annunciation.",
-            heading: "Florence",
+            imgPath: "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/51360/2000x2000-0-70-29bde528fdc139b63abfe78184fd1957.jpg",
+            description: "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly Renaissance, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio",
+            heading: "Florence-Pitti Palace",
             duration: "",
-            imgPathMap: ""
+            imgPathMap: "https://www.google.it/maps/place/Pitti+Palace/@43.7673643,11.2521377,15.91z/data=!4m5!3m4!1s0x132a515441db99f1:0x5cd0cce4e6f1502a!8m2!3d43.7651533!4d11.2500081"
         },
         {
-            imgPath: "https://images.unsplash.com/photo-1570474640932-c5dfbeeb2706?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-            description: "For the traveller that can't get enough of art and culture, or for a rainy day, choose the museums and galleries of Montreal. Start at the small but might McCord museum, where you'll learn about Canadian artists and journalists. As you walk along Sherbrooke street to La Guilde, you'll see the iconic laneway of McGill University. After the small and local collection at La Guilde, you can enjoy a coffee before taking in the permanent collection in the Musee des Beaux-Arts. Then walk towards the port, where you'll find an incredible rotating Anthropology and History exhibits.",
-            heading: "For the Intellectual",
-            duration: "5 Hours",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png",
+            imgPath: "https://www.ourescapeclause.com/wp-content/uploads/2021/08/shutterstock_1372373447-scaled.jpg",
+            description: "Piazza San Marco, often known in English as St Mark's Square, is the principal public square of Venice, Italy, where it is generally known just as la Piazza. All other urban spaces in the city are called campi. The Piazzetta is an extension of the Piazza towards San Marco basin in its south east corner. ",
+            heading: "venice-St. Mark's Square",
+            duration: "",
+            imgPathMap: "https://www.google.it/maps/place/St.+Mark's+Square/@45.4341668,12.3384717,15z/data=!4m5!3m4!1s0x0:0x2d0bb9644fff61b!8m2!3d45.4341668!4d12.3384717?hl=en",
         },
         {
-            imgPath: "https://images.unsplash.com/photo-1570474644749-dc5edd36353d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            description: "If you're not a city person, fear not! Montreal offers plenty of escapes from the chaos, all accessibly by public transport. Start with breakfast at Jean Talon Market, where you'll find in season product and baked goods, as well as a dangerous selection of artisinal cheeses. Take the metro to the Botanical Gardens. Don't worry if the weather isn't perfect, the greenhouses offer hours of enjoyment. By this time you should be ready for lunch, and you can make your way to the Lachine Canal for a bite to eat. Once recharged, use your energy to walk up Mont-Royal. You won't want to miss the lookout point, where you can admire how much ground you covered!",
-            heading: "For the Nature Lover",
-            duration: "4 Hours",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png",
+            imgPath: "https://a.cdn-hotels.com/gdcs/production86/d1205/3596db38-0609-4f0d-b7be-1a98527384c6.jpg",
+            description: "The Buen Retiro Park, Retiro Park or simply El Retiro is one of the largest parks of the city of Madrid, Spain. The park belonged to the Spanish Monarchy until the late 19th century, when it became a public park. In 2021, Buen Retiro Park became part of a combined UNESCO World Heritage Site with Paseo del Prado.",
+            heading: "madrid-El Retiro Park",
+            duration: "",
+            imgPathMap: "https://www.google.it/maps/place/El+Retiro+Park/@40.4152606,-3.6844995,15z/data=!4m5!3m4!1s0x0:0x9e6c2716b524a3ae!8m2!3d40.4152606!4d-3.6844995?hl=en",
         },
 
         {
-            imgPath: "https://images.unsplash.com/photo-1496199846480-d952d65ee514?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
-            description: "We all have a friend that can't end a trip without the perfect picture. Take them to the most influencial exhibits of the year in this immersive art tour. Start at Oasis, where you'll walk through the interactive Van Gogh exhibit. Next, pay tribute to Frida Kahlo at the Arsenal Art Contemporain. If you still haven't gotten the perfect shot, fear not! Le Saint Motel is a selfie studie offering 13 themed rooms. Lastly, to situate yourself in the perfect neighbourhood for 5-7, head to the Phi Centre for the iconic Infinity Mirror Rooms exhibition at the Phi Centre.",
-            heading: "For the Influencer",
-            duration: "6 Hours",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png",
+            imgPath: "https://greatruns.com/wp-content/uploads/2016/11/hyde-park.jpg",
+            description: "Hyde Park is a Grade I-listed major park in Central London. It is the largest of four Royal Parks that form a chain from the entrance of Kensington Palace through Kensington Gardens and Hyde Park, via Hyde Park Corner and Green Park past the main entrance to Buckingham Palace. The park is divided by the Serpentine and the Long Water lakes. The park was established by Henry VIII in 1536 when he took the land from Westminster Abbey and used it as a hunting ground. It opened to the public in 1637 and quickly became popular, particularly for May Day parades. Major improvements occurred in the early 18th century under the direction of Queen Caroline. Several duels took place in Hyde Park during this time, often involving members of the nobility. The Great Exhibition of 1851 was held in the park, for which The Crystal Palace, designed by Joseph Paxton, was erected.",
+            heading: "London-Hyde Park",
+            duration: "",
+            imgPathMap: "https://www.google.it/maps/place/Central+Park/@51.4711719,-0.0104447,11z/data=!4m9!1m2!2m1!1slondon+central+park!3m5!1s0x47d8a633dd77cccb:0x9b8c648aeb4ac4a5!8m2!3d51.5293175!4d0.0527634!15sChNsb25kb24gY2VudHJhbCBwYXJrWhUiE2xvbmRvbiBjZW50cmFsIHBhcmuSAQRwYXJrmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJ2ZGpWUVNrTjNFQUU?hl=en",
         },
     ]
 
