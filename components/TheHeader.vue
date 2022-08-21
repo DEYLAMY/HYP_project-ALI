@@ -5,7 +5,7 @@
       style="background-color: #042a2b"
     >
       <div class="container-fluid">
-        <a class="navbar-brand" href="/">Montreal</a>
+        <a class="navbar-brand" href="/">Summer Festival</a>
         <button
           class="navbar-toggler"
           type="button"
