@@ -593,44 +593,7 @@ export default async (models) => {
             eventId: 2,
             
         },
-            {
-            imgPathMain: "https://images.unsplash.com/photo-1630050525402-06c617847d27?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
-            descriptionMain: "This music venue is an iconic part of Montreal's history. Arrive early to get a drink at the bar. While there's no dress code, it's a great excuse to dress the part! Be sure to check the official website for the current lineup of shows. The venue is situated close to a metro stop, so transport to all major neighbourhoods and hotels is a breeze. ",
-            heading: "Theatre Maisonneuve",
-            address: "260 Boul. de Maisonneuve Ouest 2nd floor, Montréal, QC H2X 1Y9, Canada",
-            hours: "Hours vary according to performance",
-            cost: "See performance rates",
-            imgPathText: "https://images.unsplash.com/photo-1576679922462-75304c3525dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png",
-            category: "music",
-            url: "https://placedesarts.com/fr/salle/th%C3%A9%C3%A2tre-maisonneuve",
-            hosts: "Movie Fridays at the Grande Bibliotheque",
-            itinerary: "0",
-            Neighbourhood: "South",
-            poiName: "St. james United Church",
-            eventId: 2,
-            
-        },
-        {
-            imgPathMain: "https://images.unsplash.com/photo-1570872626485-d8ffea69f463?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
-            descriptionMain: "This music venue is an iconic part of Montreal's history. Arrive early to get a drink at the bar. While there's no dress code, it's a great excuse to dress the part! Be sure to check the official website for the current lineup of shows. The venue is situated close to a metro stop, so transport to all major neighbourhoods and hotels is a breeze. ",
-            heading: "New City Gas",
-            address: "950 Ottawa St, Montreal, Quebec H3C 1S4, Canada",
-            hours: "12 PM - 9 PM",
-            cost: "$22",
-            imgPathText: "https://images.unsplash.com/photo-1559666201-29411f21bf59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png",
-            category: "immersive",
-            url: "https://newcitygas.com/",
-            hosts: "Intangible Forms",
-            itinerary: "0",
-            Neighbourhood: "West",
-            poiName: "Satosphere",
-            eventId: 2,
-            
-        },
-
-
+      
     ]
     await models.POI.bulkCreate(POIs)
 
