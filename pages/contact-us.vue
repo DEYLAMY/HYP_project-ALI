@@ -37,7 +37,7 @@
     <div class="row justify-content-between mx-auto container-fluid px-5">
       <div class="col-md-3 d-flex flex-column flex-wrap">
         <div class="container contact">
-          <a href="mailto: abc@example.com">contact@imaje.com</a>
+          <a href="mailto: abc@example.com">contact@summerfestival.com</a>
         </div>
 
         <div>
@@ -57,7 +57,7 @@
 
       <div class="col-md-3 d-flex flex-column flex-wrap">
         <div class="container contact">
-          <a href="https://twitter.com/">@imaje</a>
+          <a href="https://twitter.com/">@summerfestival</a>
         </div>
 
         <div>
