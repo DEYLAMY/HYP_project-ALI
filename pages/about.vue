@@ -1,6 +1,6 @@
 <template>
   <div class="container-lg container-fluid-sm my-2 pt-3 pb-4">
-    <h1 class="lead py-3 px-5 text">We love Montreal. And you will too!</h1>
+    <h1 class="lead py-3 px-5 text">We love Summer Festival. And you will too!</h1>
     <div class="row mb-5 d-flex justify-content-around">
       <div class="col-sm-5 text-sm-start">
         <p class="text">
@@ -10,7 +10,7 @@
       <div class="col-sm-5">
         <img
           class="img-fluid shadow"
-          src="https://images.unsplash.com/photo-1613060688005-0bbcc1d7fbe3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+          src="https://i.guim.co.uk/img/media/dc60c2216c6230eeb2eaf2ffecc6c7452b771820/0_54_4096_2457/master/4096.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=68532136fa2c6a2a3579e9694bc73d2b"
         />
       </div>
     </div>
@@ -18,7 +18,7 @@
       <div class="col-sm-5">
         <img
           class="img-fluid shadow"
-          src="https://images.unsplash.com/photo-1519178251-5390a0fb6a3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+          src="https://media.vanityfair.com/photos/5e6921443b2c6a0008bf5b20/5:3/w_3000,h_1800,c_limit/FestivalCancellations-2020-GettyImages-174725380.jpg"
         />
       </div>
       <div class="col-sm-5 d-flex flex-column">
