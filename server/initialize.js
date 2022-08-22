@@ -394,9 +394,8 @@ export default async (models) => {
 
     const Service = [
         {
-            heading: "Bixi",
-            location: "Available through the App on iPhone and Android",
-            hours: "24/7",
+            heading: "FRANCESCA TIBURZI",
+            location: "Ms. Tiburzi also specialized with Francois Ogéas, Mary Lindsey, Rosanna Lippi, Donata D’Annunzio Lombardi, Katia Ricciarelli, Francesco Zingariello, Francesca Patanè, Mariella Devia, Yva Barthelemy. Ms. Tiburzi won important lyric contest such as: “Lina Bertasi Aimaro” contest (2009), “Rosa Ponselle” contest (2011), and was finalist at “Riccardo Zandonai”contest (2012), “Principessa Trivulzio di Belgiojoso” lyric contest (2010), “Giacomotti” Lyric contest (2012), “Ziino” Contest (2012), “Marcella Pobbe” lyric contest in Verona (2014), “Etta Limiti” Lyric Contest (second prize). She debuted in 2008 at the Donizzetti Theatre in the city of Bergamo and played the role of Violetta in the Traviata and Anna Bolena at the Bellini Theatre in the city of Catania. She has sung also roles such as Amelia in the Un ballo in maschera in Metz, Tosca and Magda in the Campana Sommersa by Respighi directed by Donato Renzetti at the Lyric Theatre in the city of Cagliari and Beethoven’s 9th Symphony in the city of Sassari.",
             url: "https://bixi.com/",
             type: "FRANCESCA TIBURZI",
             Neighbourhood: "East",
