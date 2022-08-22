@@ -163,7 +163,7 @@ export default {
         },
         {
           name: "Events",
-          path: "/allD-pois",
+          path: "/all-pois",
         },
         {
           name: "Places",
