@@ -60,7 +60,6 @@ async function initializeDatabaseConnection() {
         cost: DataTypes.STRING,
         url: DataTypes.STRING,
         hostedIn: DataTypes.STRING,
-        poiId: DataTypes.INTEGER,
     })
 
     const poiEventsJoinTable = database.define('poiEventsJoinTable', {
