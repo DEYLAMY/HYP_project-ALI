@@ -60,7 +60,7 @@ export const routerOptions = {
     component: _a0371698,
     name: "all-itineraries-itinerary"
   }, {
-    path: "/all-pois/poi",
+    path: "/allD-pois/poi",
     component: _64a3c486,
     name: "all-pois-poi"
   }, {
