@@ -54,7 +54,7 @@ export default async (models) => {
 
     const POIs = [
         {
-                  imgPathMain: "https://img.itinari.com/pages/images/original/45efadaf-72bc-47a6-979a-b12bf1849cf7-istock-458117473.jpg?ch=DPR&dpr=1.25&w=1600&s=9c2481e70bf928dc4ee8c79cdb62f471",
+            imgPathMain: "https://img.itinari.com/pages/images/original/45efadaf-72bc-47a6-979a-b12bf1849cf7-istock-458117473.jpg?ch=DPR&dpr=1.25&w=1600&s=9c2481e70bf928dc4ee8c79cdb62f471",
             descriptionMain: "Italy is reputed as a country that enjoys and celebrates the wonderful things in life - food, drinks, friends and the obvious dance! One of the most recognized dance types is the traditional dance of southern Italy, called tarantella, which is characterized by fast beats and the accompaniment of a tambourine. The word itself is the name of a poisonous which is common in southern Italy. According to ancient folk belief, spider bites once caused a crisis of violent psychopathy.",
             heading: "Puglia Dance and Tarantula Spider Night",
             address: "Florence",
@@ -62,12 +62,12 @@ export default async (models) => {
             cost: "$14",
             imgPathText: "https://img.itinari.com/pages/images/original/45efadaf-72bc-47a6-979a-b12bf1849cf7-istock-458117473.jpg?ch=DPR&dpr=1.25&w=1600&s=9c2481e70bf928dc4ee8c79cdb62f471 ",
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
-            category: "churches",
+            category: "Dance",
             url: "https://www.itinari.com/zh/apulian-dances-and-the-night-of-the-tarantula-xjaf",
             hosts: "Luminotherapie",
             itinerary: "1",
-            Neighbourhood: "East",
-            poiName: "Montreal Symphony House",
+            Neighbourhood: "",
+            poiName: "",
             eventId: 2,
             
         },
@@ -80,12 +80,12 @@ export default async (models) => {
             cost: "Free",
             imgPathText: "https://www.festivaldellavalleditria.it/wp-content/uploads/2022/04/xBANNER-415X250_202211.jpg.pagespeed.ic.ZG598FW7Pw.webp",
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
-            category: "immersive",
+            category: "Dance",
             url: "https://www.c.it/en/spettacolo/pretty-yende",
             hosts: "Infinity Mirror Rooms",
             itinerary: "4",
-            Neighbourhood: "South",
-            poiName: "Montreal Symphony House",
+            Neighbourhood: "",
+            poiName: "",
             eventId: 2,
             
         },
@@ -98,7 +98,7 @@ export default async (models) => {
             cost: "Free",
             imgPathText: "https://www.festivaldellavalleditria.it/wp-content/uploads/2022/04/xBANNER-415X250_202212.jpg.pagespeed.ic.FjALU91zgD.webp",
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
-            category: "immersive",
+            category: "Music",
             url: "https://www.festivaldellavalleditria.it/en/spettacolo/anna-pirozzi",
             hosts: " ",
             itinerary: "4",
@@ -120,7 +120,7 @@ export default async (models) => {
             url: "https://www.festivaldellavalleditria.it/en/spettacolo/il-canto-degli-ulivi-i-bassifondi",
             hosts: "Cinéma sous les Étoiles",
             itinerary: "1",
-            Neighbourhood: "East",
+            Neighbourhood: "Music",
             poiName: "La Guilde",
             eventId: 2,
             
