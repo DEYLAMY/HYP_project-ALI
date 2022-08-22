@@ -64,11 +64,6 @@ export default async (models) => {
             imgPathMap: "https://i.stack.imgur.com/coL96.png",
             category: "Dance",
             url: "https://www.itinari.com/zh/apulian-dances-and-the-night-of-the-tarantula-xjaf",
-            hosts: "Luminotherapie",
-            itinerary: "1",
-            Neighbourhood: "",
-            poiName: "",
-            eventId: 2,
             
         },
         {
