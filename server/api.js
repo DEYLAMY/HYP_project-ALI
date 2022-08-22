@@ -48,7 +48,6 @@ async function initializeDatabaseConnection() {
         url: DataTypes.STRING,
         hosts: DataTypes.STRING,
         itinerary: DataTypes.INTEGER, 
-        Neighbourhood: DataTypes.STRING,
         poiName: DataTypes.STRING,
         eventId: DataTypes.INTEGER,
     })
