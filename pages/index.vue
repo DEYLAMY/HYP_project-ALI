@@ -19,7 +19,7 @@
        <h2 class="py-3 px-5 text">Ready for adventure?</h2>
     <div class="row row-card">
       <div class="col-sm col-poi shadow btn-home">
-        <NuxtLink to="/all-pois"
+        <NuxtLink to="/allD-pois"
           ><button type="button" class="btn btn-custom">
             Discover Events
           </button></NuxtLink
