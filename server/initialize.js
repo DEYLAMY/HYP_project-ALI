@@ -393,12 +393,12 @@ export default async (models) => {
     await models.Event.bulkCreate(Event)
 
     const Service = [
-        {
-            heading: "FRANCESCA TIBURZI",
-            location: "",
+         {
+            heading: "Bixi",
+            location: "Available through the App on iPhone and Android",
             hours: "24/7",
-            url: "",
-            type: "FRANCESCA TIBURZI",
+            url: "https://bixi.com/",
+            type: "Transportation in the City",
             Neighbourhood: "East",
         },
         {
@@ -713,10 +713,10 @@ export default async (models) => {
     await models.Service.bulkCreate(Service)
 
     const AllService = [
-        {
-            type: "FRANCESCA TIBURZI",
-            imgPath: "https://biamartists.com/wp-content/uploads/2019/01/Francesca-Tiburzi-e1547766565727.jpg",
-            description: "Francesca Tiburzi was born in Bergamo and she began her musical studies at the age of 14. In 2005 she attended courses of ancient music at the Accademia Internazionale della Musica in Milan and she took part in the Cappella Mauriziana in Milan and in the choir of the Bergamo Cathedral, singing music by Palestrina, Cavalli, Rossi, Monteverdi, Bach and Mozart. In 2011 she graduated with honor at the Istituto Superiore di Studi Musicali “Donizetti” and she actually studying under the guidance of Giuseppina Cortesi.",
+       {
+            type: "Transportation in the City",
+            imgPath: "https://images.unsplash.com/photo-1569596602585-8d101a0d150b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+            description: "It's easy to get around this mid-sized city, no matter what the weather! Hop on a Bixi bike, check out the art in underground Metro stations around the city, or call an Uber after a long day sightseeing. You've got options!",
 
         },
         {
