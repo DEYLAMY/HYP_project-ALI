@@ -61,7 +61,7 @@ export default async (models) => {
             hours: "2 Sep - 4 Sep",
             cost: "$14",
             imgPathText: "https://img.itinari.com/pages/images/original/45efadaf-72bc-47a6-979a-b12bf1849cf7-istock-458117473.jpg?ch=DPR&dpr=1.25&w=1600&s=9c2481e70bf928dc4ee8c79cdb62f471 ",
-            imgPathMap: "https://i.stack.imgur.com/coL96.png",
+            imgPathMap: "https://www.google.com/maps/d/thumbnail?mid=10VmHW_IKbqVsLo3GSftdvHCyAJM&hl=en",
             category: "Dance",
             url: "https://www.itinari.com/zh/apulian-dances-and-the-night-of-the-tarantula-xjaf",
             
