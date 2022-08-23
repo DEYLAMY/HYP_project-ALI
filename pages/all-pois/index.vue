@@ -5,7 +5,7 @@
       style="background-color: #042a2b"
       class="container-lg container-fluid-sm my-2 pt-3 pb-3"
     >
-      <h1 class="lead py-3 px-5 text-light" id="caption">Points of interest</h1>
+      <h1 class="lead py-3 px-5 text-light" id="caption">Festivals Events</h1>
       <div class="row my-2 px-5 d-flex justify-content-center">
         <div class="col-md-4 col-sm-3 col-12">
           <img
