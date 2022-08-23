@@ -183,7 +183,7 @@ export default {
   },
   methods: {
     discover(){
-      this.$router.push({name:'all-pois-poi', query: {id: this.poiId}});
+      this.$router.push({name:'all-Festivals-Festivals', query: {id: this.poiId}});
       
     }
   },
