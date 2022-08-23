@@ -163,7 +163,7 @@ export default {
         },
         {
           name: "Events",
-          path: "/all-Festivals",
+          path: "/all-pois",
         },
         {
           name: "Places",
