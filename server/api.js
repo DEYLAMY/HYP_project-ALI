@@ -34,7 +34,7 @@ async function initializeDatabaseConnection() {
     Cat.belongsTo(Location)
     
     
-    const POI = database.define("poi", {
+    const POI = database.define("poiD", {
         imgPathMain: DataTypes.STRING,
         descriptionMain: DataTypes.TEXT,
         descriptionSecond: DataTypes.STRING,
