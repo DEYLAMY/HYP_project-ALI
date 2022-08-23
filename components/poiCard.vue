@@ -91,8 +91,8 @@ export default {
 
   methods:{
    discover(){
-    this.$router.push({name:'all-pois-poi', query: {id: this.id}}); //Define id
-      console.log("poi/", this.id);
+    this.$router.push({name:'all-Festivals-Festivals', query: {id: this.id}}); //Define id
+      console.log("Festivals/", this.id);
       setTimeout(()=>window.location.reload(), 50)
       // console.log("Here");
     }
