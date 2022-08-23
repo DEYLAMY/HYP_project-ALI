@@ -58,8 +58,8 @@ export default {
 
     methods:{
    discover(){
-        this.$router.push({name:'all-pois-poi', query: {id: this.id}}); //Define id
-        console.log("all-pois-poi/", this.id);
+        this.$router.push({name:'all-Festivals-Festivals', query: {id: this.id}}); //Define id
+        console.log("all-Festivals-Festivals/", this.id);
       }
   }
 }
