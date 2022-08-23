@@ -21,10 +21,10 @@
     "_name": "_74439dd5"
   },
   {
-    "name": "all-pois",
+    "name": "all-Festivals",
     "path": "/all-Festivals",
-    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-pois\\\\index.vue",
-    "chunkName": "pages/all-pois/index",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-Festivals\\\\index.vue",
+    "chunkName": "pages/all-Festivals/index",
     "_name": "_400b80ed"
   },
   {
@@ -56,10 +56,10 @@
     "_name": "_a0371698"
   },
   {
-    "name": "all-pois-poi",
+    "name": "all-Festivals-Festivals",
     "path": "/all-Festivals/poi",
-    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-pois\\\\poi\\\\index.vue",
-    "chunkName": "pages/all-pois/poi/index",
+    "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-Festivals\\\\Festivals\\\\index.vue",
+    "chunkName": "pages/all-Festivals/Festivals/index",
     "_name": "_64a3c486"
   },
   {
