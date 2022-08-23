@@ -57,7 +57,7 @@
   },
   {
     "name": "all-pois-poi",
-    "path": "/allD-pois/poi",
+    "path": "/all-Festivals/poi",
     "component": "D:\\\\projects\\\\hypermedia\\\\website\\\\hyp_project\\\\pages\\\\all-pois\\\\poi\\\\index.vue",
     "chunkName": "pages/all-pois/poi/index",
     "_name": "_64a3c486"
