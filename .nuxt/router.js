@@ -42,7 +42,7 @@ export const routerOptions = {
   }, {
     path: "/all-Festivals",
     component: _400b80ed,
-    name: "all-pois"
+    name: "all-Festivals"
   }, {
     path: "/all-services",
     component: _19b43250,
@@ -60,9 +60,9 @@ export const routerOptions = {
     component: _a0371698,
     name: "all-itineraries-itinerary"
   }, {
-    path: "/allD-pois/poi",
+    path: "/all-Festivals/Festivals",
     component: _64a3c486,
-    name: "all-pois-poi"
+    name: "all-Festivals-Festivals"
   }, {
     path: "/all-services/service",
     component: _5692c467,
