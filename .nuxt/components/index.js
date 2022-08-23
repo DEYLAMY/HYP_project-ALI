@@ -1,6 +1,6 @@
 export { default as Card } from '../..\\components\\Card.vue'
 export { default as CardEvent } from '../..\\components\\CardEvent.vue'
-export { default as CardItineraries } from '../..\\components\\CardItineraries.vue'
+export { default as CardItineraries } from '../..\\components\\CardItineraries.vue' 
 export { default as CardService } from '../..\\components\\CardService.vue'
 export { default as CarouselSm } from '../..\\components\\CarouselSm.vue'
 export { default as ItinCard } from '../..\\components\\itinCard.vue'
