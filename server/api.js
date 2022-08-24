@@ -312,7 +312,7 @@ async function runMainApi() {
         return res.json(filtered)
     })
 
-    app.get("/itineraries", async (req, res) => {
+    app.get("/abc", async (req, res) => {
         const result = await models.Itineraries.findAll()
         const filtered = []
         for (const element of result) {
