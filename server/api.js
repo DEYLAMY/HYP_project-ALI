@@ -193,7 +193,7 @@ async function runMainApi() {
     })
 
     // HTTP GET api that returns 1 POI based on id in our actual database
-    app.get('/pois/:id', async (req, res) => {
+    app.get('/Festivals/:id', async (req, res) => {
         const id = +req.params.id
         // const result2 = await models.POI.findAll({ where: { id }, include: [{model: "event", through: "poiEventsJoinTable"}]})
         // const result1 = await models.POI.findOne({ where: { id }, include: [{model: "eventkjjkj", through: "poiEventsJoinTable"}]})
@@ -202,8 +202,8 @@ async function runMainApi() {
         return res.json(result1)
     })
 
-    // HTTP GET api that returns 1 POI based on id in our actual database
-    app.get('/poisByItinerary/:id', async (req, res) => {
+    // HTTP GET api that returns 1 Festivals based on id in our actual database
+    app.get('/FestivalsByItinerary/:id', async (req, res) => {
         let id = +req.params.id
         const result = await models.POI.findAll({where:{ itinerary: id }})
         const filtered = []
