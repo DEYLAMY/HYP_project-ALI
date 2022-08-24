@@ -176,7 +176,7 @@ async function runMainApi() {
     })
 
     // HTTP GET api that returns all the POIs in our actual database
-    app.get("/pois", async (req, res) => {
+    app.get("/Festivals", async (req, res) => {
         const result = await models.POI.findAll()
         const filtered = []
         for (const element of result) {
