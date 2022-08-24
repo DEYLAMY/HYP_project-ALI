@@ -230,7 +230,7 @@ async function runMainApi() {
     })
 
     // HTTP GET api that returns 1 Itinerary based on id in our actual database
-    app.get('/itineraries/:id', async (req, res) => {
+    app.get('/abc/:id', async (req, res) => {
         const id = +req.params.id
         const result = await models.Itineraries.findOne({ where: { id }})
         return res.json(result)
